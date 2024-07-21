@@ -17,3 +17,8 @@ Call to Action (CTA): Throughout the landing page, there will be clear and promi
 Visual Appeal:  This landing page will prioritize a visually appealing design using high-quality images, creative fonts, and potentially subtle animations or hover effects to keep visitors engaged.
 
 This project will be a great way to showcase my CSS skills in building a visually compelling and user-friendly landing page experience.
+
+Here are the resources I used for this project:
+
+    Product Page: WWE Superstar Ring Playset with Spring-Loaded Mat Pro-Tension Ropes (14-Inch) Online Store (Accessed July 20, 2024)
+    General Research: Pro Wrestling Action Figures Google Search (Accessed July 20, 2024)
